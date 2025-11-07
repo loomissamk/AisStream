@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+*.gz
+test_output*.json
+*.log
+.DS_Store
+*.swp
